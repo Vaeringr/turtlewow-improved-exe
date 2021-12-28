@@ -7,3 +7,4 @@ FOV of 2.1.5 seems to be similar to retail wow and looks the best on Ultrawide M
 - simple rightclick to loot will now auto loot everything
 - hold down shift to loot normally
 - disabled generation of wdb folder - credit goes to https://forum.turtle-wow.org/viewtopic.php?f=29&t=2331&sid=7e91376af1c056172eb82b92e1ca18cb
+- increased sound chache - credit goes to https://forum.turtle-wow.org/viewtopic.php?f=29&t=2331&sid=7e91376af1c056172eb82b92e1ca18cb
